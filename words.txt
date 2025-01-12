@@ -1,0 +1,6 @@
+Bonjour tout le monde .
+
+Ce fichier est un exemple de texte pour tester l'application Word Count.
+Il contient plusieurs lignes, des mots simples et quelques caractères spéciaux.
+
+Amusez-vous bien à compter le nombre de mots .
